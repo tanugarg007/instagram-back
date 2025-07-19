@@ -1,0 +1,19 @@
+# Node modules (if using JavaScript/TypeScript)
+node_modules/
+
+# Build output
+build/
+
+# Uploads or runtime data
+uploads/
+
+# Environment files
+.env
+.env.*.local
+
+# Prisma generated client (optional if regenerated each time)
+prisma/generated/
+
+# Logs and system files
+*.log
+.DS_Store
